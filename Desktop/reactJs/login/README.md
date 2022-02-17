@@ -1,4 +1,4 @@
-(https://user-images.githubusercontent.com/59832169/154580739-83ecb9e4-4a34-421b-a406-e003680d3150.png)
+![login](https://user-images.githubusercontent.com/59832169/154580739-83ecb9e4-4a34-421b-a406-e003680d3150.png)
 
 # Getting Started with Create React App
 
@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:![login]
+In the project directory, you can run:
 
 
 ### `npm start`
